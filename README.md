@@ -1,16 +1,39 @@
-### Hi there 👋
+# Hello, welcome to my GitHub! 👋
 
-<!--
-**coutinhonobre/coutinhonobre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Igor Coutinho Ferreira Nobre and this is where I share my projects and ideas.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about technology and I'm always learning and evolving. As an Android Engineer, I've spent years mastering the ins and outs of mobile development. Nowadays, I'm focusing on enhancing my knowledge in Machine Learning Engineering.
+
+## Technologies I Use Most
+
+Here are some of the technologies and tools that I use most frequently:
+
+- Kotlin 🚀
+- Android Studio 📱
+- Firebase 🔥
+- Java ☕
+- Git & GitHub 💻
+- Python (for ML) 🐍
+- TensorFlow 🧠
+- Scikit-Learn 📊
+- Pandas 🐼
+- NumPy 🔢
+
+## What I'm Learning
+
+At the moment, I'm focused on deepening my knowledge in:
+
+- Machine Learning 🤖
+- Deep Learning 🧠
+- Reinforcement Learning 🕹️
+- Natural Language Processing 📝
+
+## Contact
+
+Feel free to send me a message! You can find me on:
+
+- LinkedIn: [Igor C F Nobre](https://www.linkedin.com/in/igor-coutinho-ferreira-nobre-535a2675/)
+
+Thank you for visiting my profile, I hope you like my projects!
