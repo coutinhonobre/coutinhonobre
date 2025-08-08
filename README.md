@@ -1,42 +1,65 @@
-# Hello, welcome to my GitHub! 👋
+# Igor Coutinho Ferreira Nobre | Android Specialist Engineer
 
-My name is Igor Coutinho Ferreira Nobre and this is where I share my projects and ideas.
+<br>
 
-## About Me
+With a career dedicated to the Android ecosystem, my focus is on building high-complexity native applications with an emphasis on **clean architecture, performance, and scalability**. I use **Kotlin** as my primary language to deliver idiomatic, safe, and maintainable code.
 
-I'm passionate about technology and I'm always learning and evolving. As an experienced Android Engineer, I've spent years mastering mobile development. Currently, I'm diving into the exciting field of **Embedded AI on Android**, exploring how to bring intelligent solutions directly to mobile devices. I'm also enhancing my knowledge in Machine Learning Engineering.
+---
 
-## Technologies I Use Most
-
-Here are some of the technologies and tools that I use most frequently:
-
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+### 🛠️ Core Toolkit
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-- **TensorFlow Lite** 💡 (for embedded AI)
 
-## What I'm Learning
 
-At the moment, I'm focused on deepening my knowledge in:
+### 🚀 Mastery of Android Technologies
 
-- Machine Learning 🤖 (with a focus on models for mobile devices)
-- Deep Learning 🧠 (applied to embedded systems)
-- Reinforcement Learning 🕹️
-- Natural Language Processing 📝
-- **Optimization of AI models for mobile devices** 🚀
+My expertise covers the entire lifecycle of modern application development:
 
-## Contact
+#### **Language and Paradigms**
+- **Idiomatic Kotlin:** Advanced use of Coroutines & Flow, Ktor, and modern language features for concise and efficient code.
+- **Java:** Maintenance, optimization, and interoperability in legacy projects.
 
-Feel free to send me a message! You can find me on:
+#### **Architecture and Design Patterns**
+- **Clean Architecture:** Designing decoupled, testable, and scalable systems.
+- **Modern Patterns:** MVVM, MVI.
+- **SOLID Principles:** The foundation for high-quality code.
+- **Dependency Injection:** Mastery of Hilt (preferred) and Koin.
 
-- LinkedIn: [Igor C F Nobre](https://www.linkedin.com/in/igor-coutinho-ferreira-nobre-535a2675/)
+#### **UI Toolkit**
+- **Jetpack Compose:** Developing declarative, reactive, and performant UIs.
+- **Android View System:** Solid experience with XML, custom views, and optimizing complex layouts.
 
-Thank you for visiting my profile, I hope you like my projects!
+#### **Jetpack and Essential Libraries**
+- **Persistence:** Room, DataStore.
+- **Navigation:** Navigation Component.
+- **Networking:** Retrofit, OkHttp, Ktor Client.
+- **Lifecycle Management:** ViewModel, LiveData, StateFlow.
+
+#### **Performance and Optimization**
+- **Performance Profiling:** Using Memory Profiler, CPU Profiler, and Systrace to identify and fix bottlenecks.
+- **Build Optimization:** Improving compile times with Gradle.
+- **APK Size Reduction:** Advanced configuration of R8/ProGuard.
+
+#### **Testing and Quality**
+- **Testing Strategies:** TDD, BDD.
+- **Tooling:** JUnit, Mockito, Turbine, Espresso.
+
+---
+
+### 🧠 Advanced Specialization: On-Device AI
+- Integration of Machine Learning models using **TensorFlow Lite** to create intelligent features with local processing that ensures performance and privacy.
+![TensorFlow Lite](https://img.shields.io/badge/TensorFlow%20Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+
+---
+
+### 📫 Contact
+
+I am always available to discuss complex challenges in the Android world.
+
+- **LinkedIn:** [Igor C F Nobre](https://www.linkedin.com/in/igor-coutinho-ferreira-nobre-535a2675/)
